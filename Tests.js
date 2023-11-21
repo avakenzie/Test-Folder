@@ -1,4 +1,4 @@
-const validSentenceChecker = require('./index');
+const validSentenceChecker = require('./Main');
 
 console.log(validSentenceChecker("One lazy dog is too few, 13 is too many."));
 //Should return true
